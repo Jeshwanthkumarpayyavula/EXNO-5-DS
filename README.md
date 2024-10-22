@@ -6,6 +6,9 @@
 # EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
+## Developed by: P.Jeshwanth Kumar
+## Reg.No:212223240114
+
 # Algorithm:
 STEP 1:Include the necessary Library.
 
